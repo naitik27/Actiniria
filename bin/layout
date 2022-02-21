@@ -1,0 +1,81 @@
+sleep 0.2
+xdotool key alt+1
+sleep 0.2
+xdotool key alt+Return
+sleep 0.2
+xdotool key alt+v
+sleep 0.2
+xdotool key alt+Return
+sleep 0.2
+xdotool key alt+h
+sleep 0.2
+xdotool key alt+Return
+sleep 0.2
+xdotool key alt+Return
+sleep 0.2
+xdotool key alt+v
+sleep 0.2
+xdotool key alt+Return
+sleep 0.2
+xdotool key alt+Up
+sleep 0.2
+xdotool key alt+Up
+sleep 0.2
+xdotool key alt+h
+sleep 0.2
+xdotool key alt+Return
+sleep 0.2
+xdotool key alt+Return
+sleep 0.2
+xdotool key alt+Left
+sleep 0.2
+xdotool key alt+r
+sleep 0.2
+xdotool key Right
+xdotool key Right
+sleep 0.2
+xdotool key Right
+xdotool key Right
+sleep 0.2
+xdotool key Down
+sleep 0.2
+xdotool key Escape
+sleep 0.2
+xdotool type neofetch && xdotool key Return
+sleep 0.2
+xdotool key alt+Left
+sleep 0.2
+xdotool type cava && xdotool key Return
+sleep 0.2 
+xdotool key alt+Down
+sleep 0.2
+xdotool type "pipes" && xdotool key Return
+sleep 0.2
+xdotool key alt+Down
+sleep 0.2
+xdotool type "tty-clock -c -C 3 -D" && xdotool key Return
+sleep 0.2
+xdotool key alt+Left
+sleep 0.2
+xdotool key alt+r
+sleep 0.2
+xdotool key Right
+xdotool key Right
+sleep 0.2
+xdotool key Escape
+sleep 0.2
+xdotool type htop && xdotool key Return
+sleep 0.2
+xdotool key alt+Left
+sleep 0.2
+xdotool type "neo --noglitch -c cyan -m 'EVERYONE IS DYING'" && xdotool key Return
+sleep 0.2
+xdotool key alt+Up
+sleep 0.2
+xdotool key Right
+sleep 0.2 
+xdotool key alt+Left
+sleep 0.2
+xdotool type "cava" && xdotool key Return
+sleep 0.2
+xdotool key Right
